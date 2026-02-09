@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alltime</key>
+	<real>6223.5339999999997</real>
+	<key>isLocal</key>
+	<false/>
+	<key>playTime</key>
+	<real>1200.51</real>
+	<key>progress</key>
+	<real>0.19289844001816331</real>
+	<key>sectionName</key>
+	<string>Desktop</string>
+	<key>videoName</key>
+	<string>07.进入内网前的各种代理搭建 .dmm</string>
+	<key>videoPath</key>
+	<string>/Users/zhaofei/Desktop/07.进入内网前的各种代理搭建 .dmm</string>
+</dict>
+</plist>
